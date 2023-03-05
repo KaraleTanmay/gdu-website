@@ -8,11 +8,11 @@ import OurRenders from './components/our renders/OurRenders'
 export default function Home() {
     return (
         <div>
-            <Hero />
-            <OurClub />
+             <Hero />
+            { /*<OurClub />
             <Achievements />
             <OurGames />
-            <OurRenders />
+            <OurRenders /> */}
         </div>
     )
 }
