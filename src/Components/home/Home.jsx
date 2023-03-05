@@ -8,7 +8,6 @@ import OurRenders from './components/our renders/OurRenders'
 export default function Home() {
     return (
         <div>
-            home
             <Hero />
             <OurClub />
             <Achievements />
