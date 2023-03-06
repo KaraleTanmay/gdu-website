@@ -1,0 +1,12 @@
+.movimg{
+    position: fixed;
+    display: flex;
+    width: 200px;
+    top: 45%;
+    right: 10%;
+    z-index: -3;
+}
+
+.backimg{
+    position: fixed;
+}
